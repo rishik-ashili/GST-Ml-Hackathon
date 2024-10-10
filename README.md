@@ -26,11 +26,17 @@
 
 * Implemented multiple algorithms, including Logistic Regression, Random Forest, and LightGBM.
 * Employed hyperparameter tuning to optimize model performance.
-* Model Evaluation:
+  
+* ##  Model Evaluation:
+* Accuracy: 0.9819
+* Precision: 0.8816
+* Recall: 0.9150
+* F1 Score: 0.8980
+* AUC-ROC: 0.9969
+* Confusion Matrix:
+[[211391   2504]
+ [  1733  18647]]
 
-Evaluated models using metrics such as accuracy, precision, recall, and F1 score.
-Conducted cross-validation to ensure robustness of the results.
-Results
-Best Model: Provide the name of the model that performed best based on your evaluations.
-Performance Metrics: Summarize key performance metrics for the best model.
-Visualizations: Include plots that illustrate model performance and feature importance.
+* Evaluated models using metrics such as accuracy, precision, recall, and F1 score.
+* Conducted cross-validation to ensure robustness of the results.
+
