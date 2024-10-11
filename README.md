@@ -24,7 +24,7 @@
 * Visualized data distributions and relationships between features using various plots (e.g., histograms, scatter plots).
 ## Modeling:
 
-* Implemented multiple algorithms, including Logistic Regression, Random Forest, and LightGBM.
+* Implemented LightGBM.
 * Employed hyperparameter tuning to optimize model performance.
   
 * ##  Model Evaluation:
